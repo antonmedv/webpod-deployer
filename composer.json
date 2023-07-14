@@ -1,0 +1,15 @@
+{
+    "name": "webpod/deployer",
+    "description": "Deploy PHP apps",
+    "type": "library",
+    "require": {
+        "deployer/deployer": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Medvedev",
+            "email": "anton@medv.io"
+        }
+    ]
+}
